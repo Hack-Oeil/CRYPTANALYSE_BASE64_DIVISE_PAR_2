@@ -3,7 +3,7 @@
 ## Présentation du CTF 
 **ID** 13 dans **les CTFs de Cyrhades**
 
-Déchiffrer le texte pour obtenir le flag.
+Objectif: déchiffrer le texte pour obtenir le flag.
 
 
 
